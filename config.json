@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userronnect",
+        "uuid": 4920480,
+        "checksum": "4zxrb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
